@@ -1,3 +1,5 @@
+> **Archived.** This repository moved into the netray monorepo, [`netray-info/netray`](https://github.com/netray-info/netray/tree/main/packages/common-frontend). Development, issues and releases happen there. This repository publishes nothing further to GitHub Packages npm (`@netray-info/common-frontend`); images and versions already published stay available.
+
 # @netray-info/common-frontend
 
 Shared SolidJS utilities, primitives, and CSS design tokens for the [netray.info](https://netray.info) service family (ifconfig-rs, mhost-prism, tlsight).
